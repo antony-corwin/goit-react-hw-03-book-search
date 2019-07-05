@@ -38,7 +38,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://antony-corwin.github.io/goit-react-hw-03-book-search/build/",
+  "homepage": "http://antony-corwin.github.io/goit-react-hw-03-book-search/build",
   "devDependencies": {
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^4.3.0",
